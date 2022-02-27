@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The demands of Lieutenant-Generall Crumwell to the Estates of the Kingdom of Scotland, assembled at Edenburgh, concerning Generall Monro, and his forces, and their surrendring of the English garrisons. With his resolution touching the said army, and all those who shal assist them, in case these demands be not granted. Also, the proceedings of Generall Monro and his army in relation to an engagement, and their marching towards Stainmore neer Northumberland, with the train of artillery, and a great blow given to his Majesties enemies. Likewise, the declaration, resolution, and protestation, of the counties of York-shire, Northumberland, and the Bishoprick of Durham, concerning the two armies of England and Scotland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82332</idno>
+            <idno type="STC">Wing D974</idno>
+            <idno type="STC">Thomason E463_2</idno>
+            <idno type="STC">ESTC R232146</idno>
+            <idno type="EEBO-CITATION">50805838</idno>
+            <idno type="OCLC">ocm 50805838</idno>
+            <idno type="VID">162211</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82332)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162211)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E463[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The demands of Lieutenant-Generall Crumwell to the Estates of the Kingdom of Scotland, assembled at Edenburgh, concerning Generall Monro, and his forces, and their surrendring of the English garrisons. With his resolution touching the said army, and all those who shal assist them, in case these demands be not granted. Also, the proceedings of Generall Monro and his army in relation to an engagement, and their marching towards Stainmore neer Northumberland, with the train of artillery, and a great blow given to his Majesties enemies. Likewise, the declaration, resolution, and protestation, of the counties of York-shire, Northumberland, and the Bishoprick of Durham, concerning the two armies of England and Scotland.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for G. Horton, and are to be sold at the Royall Exchange in Cornwall,</publisher>
+                  <pubPlace>Imprinted at London, :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Two letters. The first, from Durham, is dated 7 September 1648; the second, from Newcastle, is dated 8 September 1648.</note>
+                  <note>Annotation on Thomason copy: "Sept. ye 12".</note>
+                  <note>The leaf filmed at the end of this item with the verse beginning "No Parran Marble ..." is in fact part of E.463[3].</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Sources</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162211:1" rendition="simple:additions"/>
+            <p>THE DEMANDS Of Lieutenant-Generall CRUMWELL TO The Eſtates of the <hi>Kingdom</hi> of <hi>Scotland,</hi> aſſembled at <hi>Eden<g ref="char:EOLhyphen"/>burgh,</hi> concerning Generall <hi>Monro,</hi> and his Forces, and their ſurrendring of the <hi>Engliſh</hi> Garriſons. With his Reſolution touching the ſaid Army, and all thoſe who ſhal aſſiſt them, in caſe theſe Demands be not granted.</p>
+            <p>ALSO, The proceedings of Generall <hi>Monro</hi> and his Army in relation to an engagement, and their marching towards Stainmore neer <hi>Northumberland,</hi> with the Train of Artillery, and a great blow given to his Majeſties Enemies.</p>
+            <p>LIKEWISE, The <hi>Declaration, Reſolution,</hi> and <hi>Proteſtation,</hi> of the Counties of <hi>York-ſhire, Northumberland,</hi> and the Biſhoprick of <hi>Dur<g ref="char:EOLhyphen"/>ham,</hi> concerning the two Armies of <hi>England</hi> and <hi>Scotland.</hi>
+            </p>
+            <p>Imprinted at <hi>London,</hi> for <hi>G. Horton,</hi> and are to be ſold at the Royall Exchange in <hi>Cornwall,</hi> 1648. <add>Sept y<hi rend="sup">e</hi> 12</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162211:2"/>
+            <pb n="1" facs="tcp:162211:2"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <figDesc>central circle flanked by the English lion on the left and the Scottish unicorn on the right and containing the initials of King Charles, all of these figures enclosed within a rectangle flanked by an angel on the left and right</figDesc>
+               </figure>
+            </head>
+            <head>THE DEMANDS Of Lieu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enant-Generall CRVMVVELL TO The Committee of Eſtates of the Kingdom of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> concerning Generall <hi>Munro,</hi> and his Forces, with his Reſolution thereupon, in caſe of an unſatisfactory Anſwer.</head>
+            <opener>
+               <salute>Endeared Sir,</salute>
+            </opener>
+            <p>THe unanimous Spirits of the King and King<g ref="char:EOLhyphen"/>dome growes numerous and ſuccesfull they leave no waye unattempted, for the recove<g ref="char:EOLhyphen"/>ry or this languiſhing Nation to a flouriſhing conid<g ref="char:EOLhyphen"/>tion, their evill actions proves &amp; manifeſtation to their future intentions, and their affectionate carriage to the
+<pb n="2" facs="tcp:162211:3"/>country Inhabitants, demonſtrates their reality in a<g ref="char:EOLhyphen"/>bundantly, who by great and vaſt numbers, reſorts to them daily, ſhrowding themſelves under the wings of their protection, joyntly and unanimouſly adventuring lives and fortunes againſt the enemies of <hi>Religon, King,</hi> and <hi>Kingdom;</hi> and to that end have entred into an En<g ref="char:EOLhyphen"/>gagement and Proteſtation, to aſſiſt the Lieuten<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Ge<g ref="char:EOLhyphen"/>nerall, or the Forces under his command, to the laſt man, not doubting but that the great Jehovah will goe along with them, and give his mighty aſſiſtance in this great Work, which ſo much tendeth, to the glory of God, and the advancement of his People; and that the ſame God which crown'd them with the late glori<g ref="char:EOLhyphen"/>ous Victory, will ſtill be preſent in the midſt of their Army, and with his All ſeeing Eye and Providence diſcover and prevent the rage of their enemies; that ſo He who is the Giver of all Victories, and the Cap<g ref="char:EOLhyphen"/>tain Generall of all Armies, may honour his ſervants and ſouldiers with a finall day of tryumph, making them inſtruments, to ſheath the bloudy Sword, and compoſe all unhappy differences between the people of this Nation.</p>
+            <p>The Country people riſe generally, arming them<g ref="char:EOLhyphen"/>ſelves with great reſolution, and have declared their unanimous affections to the Lieutenant Generall to live and die with him.</p>
+            <p>His excellent deportment towards them, unites their hearts in generall; by which means, he hath attemp<g ref="char:EOLhyphen"/>ted ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y difficulties, and is now got as far as <hi>Barwick</hi> upon Tweed, being reſolved to charge <hi>Monro</hi> in the Rear, and to retard his retreat into Scotland, if a ſatiſ<g ref="char:EOLhyphen"/>factory anſwer be not given to theſe enſuing Demands
+<pb n="3" facs="tcp:162211:3"/>which he hath now propoſed in a Letter to the Eſtates of the kingdom of Scotland aſſembled at Edenburgh, <hi>viz.</hi>
+            </p>
+            <p n="1">1. <hi>That they recall Major Generall</hi> Monro, <hi>and the Forces under his immediate command out of this King<g ref="char:EOLhyphen"/>dome, and that for the future they ſhall make no further invaſion or inroad within the Bowels thereof.</hi>
+            </p>
+            <p n="2">2. <hi>That they forthwith ſurrender the Garriſons of <hi>Berwick, Carliſle,</hi> and all other Engliſh Garriſons wha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſoever, to the obedience and protection of the Parliament of</hi> England.</p>
+            <p n="3">3. <hi>And lastly, That in caſe theſe Propoſals be not aſ<g ref="char:EOLhyphen"/>ſenced to, he is reſolved to proſecute his deſign against them as Rebels and Traytors to this Kingdome, and that all thoſe who do adhere to, or aſſiſt them in this Engage<g ref="char:EOLhyphen"/>ment must expect the ſame mercy.</hi>
+            </p>
+            <p>We do not hear of any Anſwer as yet returned, but <hi>Monro</hi> declines an engagement, and will not fight, our Horſe divers times provokes him to it, who not long ſince upon their march) diſputed a piece of ground with the enemy recover'd the ſame, and put them to a very diſorderly retreat.</p>
+            <p>On <hi>Munday</hi> laſt both Bodies were within 8 miles of each other, our horſe faced them, expecting an en<g ref="char:EOLhyphen"/>gagement, but <hi>Monro</hi> wheeled off with his Army, and drew towards Stainmore with his Artillery, ſo that they are now 20. miles diſtant, the Lieutenant General attends their motion, and keepes betwixt Tweed and them. Colonell <hi>Fenwick</hi> with ſome additionall Forces is deſigned for the blocking up of <hi>Berwick.</hi>
+            </p>
+            <closer>
+               <dateline>Durham <date>7. Septemb. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:162211:4"/>
+            <head>Another Letter from the North, communinicating the preſent proceedings of the <hi>Scottiſh Army,</hi> to the Citizens of <hi>London,</hi> and all other parts adjacent.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>The proceedings of the <hi>Scots</hi> and <hi>Iriſh</hi> ap<g ref="char:EOLhyphen"/>peares more viſible and inhumane then formerly, their actions are tyranicall, their wayes moſt inſuffe<g ref="char:EOLhyphen"/>rable and executeth nothing but bloud thirſtineſſe and cruelty, tending only to utter ruine and deſolation: they have burned downe, divers ſtately buildings in theſe parts, executed ſome of my Lord <hi>Whartons</hi> Te<g ref="char:EOLhyphen"/>nants, and threatens others, which cauſeth the Coun<g ref="char:EOLhyphen"/>try to riſe and joyn with Lieu. Gen. <hi>Crumwell,</hi> inſo<g ref="char:EOLhyphen"/>much that there will be a ſudden engagement. The L. Generall hath declared himſelf very galiantly to the Country people, touching the preſervation of their lives and eſtates from the Scots, which takes excee<g ref="char:EOLhyphen"/>dingly amongſt the Inhabitants The Committee of e<g ref="char:EOLhyphen"/>ſtates have given out orders for raiſing of more for<g ref="char:EOLhyphen"/>ces to aſſiſt <hi>Monro.</hi>
+            </p>
+            <p>We hear that Gen. <hi>Munro</hi> with his Army is march<g ref="char:EOLhyphen"/>ed on this ſide <hi>Appleby,</hi> preparing for an ingagement, his forces conſiſting of about 8000. and it is reported that 5000. more are joyned with him from <hi>Scotland.</hi> Our Intelligence ſaith that he is reſolved to fight Lie. Gen. <hi>Crumwel,</hi> and the reſt of the Engliſh Forces, reſolving rather to die, then yeeld ground, unleſſe up<g ref="char:EOLhyphen"/>on advantage.</p>
+            <p>Our forces deſires to Ingage, but could not paſſe by the way of <hi>Cumberland</hi> for want of proviſion, that County and <hi>Westmerland</hi> being exhauſted, beſides the wet weather and mountainous wayes makes cariages
+<pb n="4" facs="tcp:162211:4"/>and Artillery unpaſſable had there been provi<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>; in <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hoſe reſpects we paſſed by Skipton upon Craven, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo by the Eaſt Coaſt, where we ſhall have better op<g ref="char:EOLhyphen"/>portunity to meet our enemy, who we are informed is paſt at Steinmore in the Biſhoprick of <hi>Durkard,</hi> where is plenty of proviſion and Antil covenanters, who bid them weclome to as much benefit, as Colche<g ref="char:EOLhyphen"/>ſter got by entertaining the Royall party.</p>
+            <p>Upon Satterday laſt <hi>Munroes</hi> Army randezvouzed at <hi>Borough</hi> neer <hi>Stainmore</hi> in the Biſhoprick, who mu<g ref="char:EOLhyphen"/>ſtered neer upon 8000. horſe and foot, Engliſh, Scots and Iriſh, well armed and reſolute.</p>
+            <p>At which Randevouz we hear, that <hi>Munro</hi> decla<g ref="char:EOLhyphen"/>red himſelf at the head of each Regiment, intimating <hi>His reſolution to live and die with them, and to fight it out to the laſt man.</hi>
+            </p>
+            <p>Then he called a generall councell of all his Officers where it was agreed, <hi>That the Scots and Iriſh s;hould be commanded back to <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erigh, a<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Engliſh into the Bi<g ref="char:EOLhyphen"/>ſhoprick, and that within two dayes they march up to the Randezvours at Hexam Moor in Northumberland, which accordingly they did, where was a great appearance,</hi> Sir Philip Muſgrave joyning with them with a ſtrong par<g ref="char:EOLhyphen"/>ty of horſe: the train of Artillery likewiſe came up, as alſo 20 piece of Ordnance: and its generally reported here that 5000. more are comming out of Scotland, which if true, they will make a very conſiderable Ar<g ref="char:EOLhyphen"/>my. Divers Engliſh reſorts from theſe parts to <hi>Mun<g ref="char:EOLhyphen"/>ro,</hi> who are by their great Landlords incouraged, and promiſed to ſit rent-free for the future.</p>
+            <p>We march ſlowly, becauſe we wait the coming of Col. Gen. <hi>Lambert</hi> with 4 Regiments whom we expect
+<pb n="6" facs="tcp:162211:5"/>daily. Sir <hi>Wil. Huddleſton</hi> (a papiſt) hath raiſed a con<g ref="char:EOLhyphen"/>ſiderable party for the King, and beſieged <hi>Cockermouth</hi> the Lancaſhire forces are gone to ſuppreſſe him.</p>
+            <p>Col. <hi>Fenwicks</hi> horſe and ſome Dragoons went neere <hi>Barwick,</hi> relieved the <hi>Holy Iſland,</hi> ſtorm'd <hi>Fenham</hi> Ca<g ref="char:EOLhyphen"/>ſtle neer t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Iſle, in which was a Scots Garriſon, took divers priſoners, put the reſt to the ſword: they ſum<g ref="char:EOLhyphen"/>moned <hi>Hagerſton</hi> Gariſon, but the Scots ſallying out of <hi>Berwick</hi> forced them to retreat.</p>
+            <p>The Inhabitants in <hi>Northumberland</hi> have pint them<g ref="char:EOLhyphen"/>ſelves into a poſture of defence, and upon the 6. of this inſtant made proclamation at <hi>Morpeth,</hi> declaring their reſolution to live and die with Lieutenant Generall <hi>Cromwell,</hi> and to aſſiſt him with all that is near &amp; dear unto them, for the vanquiſhing of the perfidious Scot, who have and are now entring into the Confines of this kingdom, who by their barbarous and inhumane actions, have apparently declared their great averſneſs both to <hi>Religion, King,</hi> and <hi>Kingdom.</hi>
+            </p>
+            <closer>
+               <dateline>Newcastle <date>8. Septemb. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
